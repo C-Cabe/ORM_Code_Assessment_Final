@@ -1,0 +1,22 @@
+[2022-09-25 22:56:22,430] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: Email_Bestseller_List_To_Users.NonFiction_book_list 2022-09-25T22:56:17.804635+00:00 [queued]>
+[2022-09-25 22:56:22,438] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: Email_Bestseller_List_To_Users.NonFiction_book_list 2022-09-25T22:56:17.804635+00:00 [queued]>
+[2022-09-25 22:56:22,438] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-25 22:56:22,439] {taskinstance.py:1069} INFO - Starting attempt 1 of 1
+[2022-09-25 22:56:22,439] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-25 22:56:22,449] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): NonFiction_book_list> on 2022-09-25T22:56:17.804635+00:00
+[2022-09-25 22:56:22,457] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Email_Bestseller_List_To_Users', 'NonFiction_book_list', '2022-09-25T22:56:17.804635+00:00', '--job-id', '83', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/DAG1.py', '--cfg-path', '/tmp/tmpwb_9ahby', '--error-file', '/tmp/tmpr2uc4t2f']
+[2022-09-25 22:56:22,454] {standard_task_runner.py:52} INFO - Started process 218 to run task
+[2022-09-25 22:56:22,457] {standard_task_runner.py:77} INFO - Job 83: Subtask NonFiction_book_list
+[2022-09-25 22:56:22,485] {logging_mixin.py:104} INFO - Running <TaskInstance: Email_Bestseller_List_To_Users.NonFiction_book_list 2022-09-25T22:56:17.804635+00:00 [running]> on host d74d0d8a09f8
+[2022-09-25 22:56:22,511] {taskinstance.py:1283} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Email_Bestseller_List_To_Users
+AIRFLOW_CTX_TASK_ID=NonFiction_book_list
+AIRFLOW_CTX_EXECUTION_DATE=2022-09-25T22:56:17.804635+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-09-25T22:56:17.804635+00:00
+[2022-09-25 22:56:22,513] {python.py:118} INFO - Done. Returned value was: None
+[2022-09-25 22:56:22,522] {taskinstance.py:1192} INFO - Marking task as SUCCESS. dag_id=Email_Bestseller_List_To_Users, task_id=NonFiction_book_list, execution_date=20220925T225617, start_date=20220925T225622, end_date=20220925T225622
+[2022-09-25 22:56:22,542] {taskinstance.py:1246} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2022-09-25 22:56:22,551] {local_task_job.py:146} INFO - Task exited with return code 0

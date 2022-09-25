@@ -1,0 +1,51 @@
+[2022-09-25 22:56:23,552] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: Email_Bestseller_List_To_Users.Send_Email 2022-09-25T22:56:17.804635+00:00 [queued]>
+[2022-09-25 22:56:23,559] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: Email_Bestseller_List_To_Users.Send_Email 2022-09-25T22:56:17.804635+00:00 [queued]>
+[2022-09-25 22:56:23,560] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-25 22:56:23,560] {taskinstance.py:1069} INFO - Starting attempt 1 of 1
+[2022-09-25 22:56:23,560] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-25 22:56:23,570] {taskinstance.py:1089} INFO - Executing <Task(EmailOperator): Send_Email> on 2022-09-25T22:56:17.804635+00:00
+[2022-09-25 22:56:23,574] {standard_task_runner.py:52} INFO - Started process 220 to run task
+[2022-09-25 22:56:23,577] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Email_Bestseller_List_To_Users', 'Send_Email', '2022-09-25T22:56:17.804635+00:00', '--job-id', '84', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/DAG1.py', '--cfg-path', '/tmp/tmpe6ok7l6y', '--error-file', '/tmp/tmp5bsinucc']
+[2022-09-25 22:56:23,577] {standard_task_runner.py:77} INFO - Job 84: Subtask Send_Email
+[2022-09-25 22:56:23,606] {logging_mixin.py:104} INFO - Running <TaskInstance: Email_Bestseller_List_To_Users.Send_Email 2022-09-25T22:56:17.804635+00:00 [running]> on host d74d0d8a09f8
+[2022-09-25 22:56:23,640] {taskinstance.py:1283} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Email_Bestseller_List_To_Users
+AIRFLOW_CTX_TASK_ID=Send_Email
+AIRFLOW_CTX_EXECUTION_DATE=2022-09-25T22:56:17.804635+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-09-25T22:56:17.804635+00:00
+[2022-09-25 22:56:23,642] {configuration.py:352} WARNING - section/key [smtp/smtp_user] not found in config
+[2022-09-25 22:56:23,642] {email.py:184} INFO - Email alerting: attempt 1
+[2022-09-25 22:56:23,643] {taskinstance.py:1482} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1138, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1311, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1341, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/email.py", line 87, in execute
+    mime_charset=self.mime_charset,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/email.py", line 62, in send_email
+    **kwargs,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/email.py", line 97, in send_email_smtp
+    send_mime_email(e_from=smtp_mail_from, e_to=recipients, mime_msg=msg, dryrun=dryrun)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/email.py", line 186, in send_mime_email
+    conn = _get_smtp_connection(smtp_host, smtp_port, smtp_timeout, smtp_ssl)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/email.py", line 220, in _get_smtp_connection
+    else smtplib.SMTP(host=host, port=port, timeout=timeout)
+  File "/usr/local/lib/python3.6/smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/local/lib/python3.6/smtplib.py", line 336, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/local/lib/python3.6/smtplib.py", line 307, in _get_socket
+    self.source_address)
+  File "/usr/local/lib/python3.6/socket.py", line 724, in create_connection
+    raise err
+  File "/usr/local/lib/python3.6/socket.py", line 713, in create_connection
+    sock.connect(sa)
+OSError: [Errno 99] Cannot assign requested address
+[2022-09-25 22:56:23,646] {taskinstance.py:1532} INFO - Marking task as FAILED. dag_id=Email_Bestseller_List_To_Users, task_id=Send_Email, execution_date=20220925T225617, start_date=20220925T225623, end_date=20220925T225623
+[2022-09-25 22:56:23,670] {local_task_job.py:146} INFO - Task exited with return code 1

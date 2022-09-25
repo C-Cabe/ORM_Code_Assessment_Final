@@ -1,0 +1,37 @@
+[2022-09-25 21:33:56,912] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: Email_Bestseller_List_To_Users.Fiction_book_list 2022-09-25T21:33:53.450856+00:00 [queued]>
+[2022-09-25 21:33:56,921] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: Email_Bestseller_List_To_Users.Fiction_book_list 2022-09-25T21:33:53.450856+00:00 [queued]>
+[2022-09-25 21:33:56,922] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-25 21:33:56,922] {taskinstance.py:1069} INFO - Starting attempt 1 of 1
+[2022-09-25 21:33:56,922] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-25 21:33:56,934] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): Fiction_book_list> on 2022-09-25T21:33:53.450856+00:00
+[2022-09-25 21:33:56,937] {standard_task_runner.py:52} INFO - Started process 77 to run task
+[2022-09-25 21:33:56,940] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Email_Bestseller_List_To_Users', 'Fiction_book_list', '2022-09-25T21:33:53.450856+00:00', '--job-id', '13', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/DAG1.py', '--cfg-path', '/tmp/tmp92xct7zi', '--error-file', '/tmp/tmpgjm6_523']
+[2022-09-25 21:33:56,941] {standard_task_runner.py:77} INFO - Job 13: Subtask Fiction_book_list
+[2022-09-25 21:33:56,974] {logging_mixin.py:104} INFO - Running <TaskInstance: Email_Bestseller_List_To_Users.Fiction_book_list 2022-09-25T21:33:53.450856+00:00 [running]> on host d74d0d8a09f8
+[2022-09-25 21:33:57,004] {taskinstance.py:1283} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Email_Bestseller_List_To_Users
+AIRFLOW_CTX_TASK_ID=Fiction_book_list
+AIRFLOW_CTX_EXECUTION_DATE=2022-09-25T21:33:53.450856+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-09-25T21:33:53.450856+00:00
+[2022-09-25 21:33:57,005] {logging_mixin.py:104} INFO - \Combined - Fiction
+[2022-09-25 21:33:57,005] {logging_mixin.py:104} INFO - 
+[2022-09-25 21:33:57,005] {taskinstance.py:1482} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1138, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1311, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1341, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 117, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 128, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/DAG1.py", line 54, in Get_Combined_Fiction_Book_List
+    for key,val in lis.items():
+AttributeError: 'str' object has no attribute 'items'
+[2022-09-25 21:33:57,010] {taskinstance.py:1532} INFO - Marking task as FAILED. dag_id=Email_Bestseller_List_To_Users, task_id=Fiction_book_list, execution_date=20220925T213353, start_date=20220925T213356, end_date=20220925T213357
+[2022-09-25 21:33:57,034] {local_task_job.py:146} INFO - Task exited with return code 1

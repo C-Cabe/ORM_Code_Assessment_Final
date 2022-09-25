@@ -1,0 +1,402 @@
+[2022-09-24 16:34:35,155] {scheduler_job.py:182} INFO - Started process (PID=302) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:34:35,156] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:34:35,157] {logging_mixin.py:104} INFO - [2022-09-24 16:34:35,157] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:34:35,173] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:34:35,183] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.031 seconds
+[2022-09-24 16:35:05,373] {scheduler_job.py:182} INFO - Started process (PID=329) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:35:05,374] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:35:05,375] {logging_mixin.py:104} INFO - [2022-09-24 16:35:05,375] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:35:05,387] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:35:05,397] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.027 seconds
+[2022-09-24 16:35:35,656] {scheduler_job.py:182} INFO - Started process (PID=356) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:35:35,658] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:35:35,659] {logging_mixin.py:104} INFO - [2022-09-24 16:35:35,659] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:35:35,678] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:35:35,693] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.041 seconds
+[2022-09-24 16:36:05,800] {scheduler_job.py:182} INFO - Started process (PID=383) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:36:05,801] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:36:05,802] {logging_mixin.py:104} INFO - [2022-09-24 16:36:05,801] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:36:05,813] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:36:05,826] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.028 seconds
+[2022-09-24 16:36:35,904] {scheduler_job.py:182} INFO - Started process (PID=410) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:36:35,908] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:36:35,909] {logging_mixin.py:104} INFO - [2022-09-24 16:36:35,909] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:36:35,923] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:36:35,932] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.030 seconds
+[2022-09-24 16:37:06,209] {scheduler_job.py:182} INFO - Started process (PID=437) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:37:06,211] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:37:06,212] {logging_mixin.py:104} INFO - [2022-09-24 16:37:06,212] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:37:06,227] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:37:06,240] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.034 seconds
+[2022-09-24 16:37:36,263] {scheduler_job.py:182} INFO - Started process (PID=464) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:37:36,265] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:37:36,266] {logging_mixin.py:104} INFO - [2022-09-24 16:37:36,266] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:37:36,281] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:37:36,296] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.036 seconds
+[2022-09-24 16:38:06,587] {scheduler_job.py:182} INFO - Started process (PID=491) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:38:06,589] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:38:06,589] {logging_mixin.py:104} INFO - [2022-09-24 16:38:06,589] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:38:06,601] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:38:06,611] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.026 seconds
+[2022-09-24 16:38:36,715] {scheduler_job.py:182} INFO - Started process (PID=518) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:38:36,716] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:38:36,717] {logging_mixin.py:104} INFO - [2022-09-24 16:38:36,717] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:38:36,733] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:38:36,751] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.039 seconds
+[2022-09-24 16:39:06,959] {scheduler_job.py:182} INFO - Started process (PID=545) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:39:06,961] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:39:06,961] {logging_mixin.py:104} INFO - [2022-09-24 16:39:06,961] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:39:06,973] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:39:06,983] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.026 seconds
+[2022-09-24 16:39:37,099] {scheduler_job.py:182} INFO - Started process (PID=572) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:39:37,100] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:39:37,101] {logging_mixin.py:104} INFO - [2022-09-24 16:39:37,101] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:39:37,111] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:39:37,122] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.025 seconds
+[2022-09-24 16:40:07,271] {scheduler_job.py:182} INFO - Started process (PID=599) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:40:07,272] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:40:07,273] {logging_mixin.py:104} INFO - [2022-09-24 16:40:07,273] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:40:07,285] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:40:07,297] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.028 seconds
+[2022-09-24 16:40:37,364] {scheduler_job.py:182} INFO - Started process (PID=626) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:40:37,365] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:40:37,366] {logging_mixin.py:104} INFO - [2022-09-24 16:40:37,366] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:40:37,379] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:40:37,388] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.027 seconds
+[2022-09-24 16:41:07,511] {scheduler_job.py:182} INFO - Started process (PID=653) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:41:07,512] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:41:07,513] {logging_mixin.py:104} INFO - [2022-09-24 16:41:07,513] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:41:07,522] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:41:07,532] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.023 seconds
+[2022-09-24 16:41:38,071] {scheduler_job.py:182} INFO - Started process (PID=680) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:41:38,073] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:41:38,074] {logging_mixin.py:104} INFO - [2022-09-24 16:41:38,073] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:41:38,086] {logging_mixin.py:104} INFO - [2022-09-24 16:41:38,085] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:41:38,088] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:41:38,101] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.032 seconds
+[2022-09-24 16:42:08,256] {scheduler_job.py:182} INFO - Started process (PID=707) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:42:08,257] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:42:08,259] {logging_mixin.py:104} INFO - [2022-09-24 16:42:08,259] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:42:08,281] {logging_mixin.py:104} INFO - [2022-09-24 16:42:08,279] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:42:08,288] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:42:08,314] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.062 seconds
+[2022-09-24 16:42:38,386] {scheduler_job.py:182} INFO - Started process (PID=734) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:42:38,387] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:42:38,388] {logging_mixin.py:104} INFO - [2022-09-24 16:42:38,388] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:42:38,398] {logging_mixin.py:104} INFO - [2022-09-24 16:42:38,397] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:42:38,400] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:42:38,416] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.032 seconds
+[2022-09-24 16:43:08,456] {scheduler_job.py:182} INFO - Started process (PID=761) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:43:08,457] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:43:08,458] {logging_mixin.py:104} INFO - [2022-09-24 16:43:08,458] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:43:08,470] {logging_mixin.py:104} INFO - [2022-09-24 16:43:08,469] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:43:08,472] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:43:08,484] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.031 seconds
+[2022-09-24 16:43:38,539] {scheduler_job.py:182} INFO - Started process (PID=788) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:43:38,540] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:43:38,541] {logging_mixin.py:104} INFO - [2022-09-24 16:43:38,541] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:43:38,550] {logging_mixin.py:104} INFO - [2022-09-24 16:43:38,550] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:43:38,553] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:43:38,567] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.031 seconds
+[2022-09-24 16:44:08,609] {scheduler_job.py:182} INFO - Started process (PID=815) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:44:08,611] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:44:08,612] {logging_mixin.py:104} INFO - [2022-09-24 16:44:08,611] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:44:08,625] {logging_mixin.py:104} INFO - [2022-09-24 16:44:08,624] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:44:08,627] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:44:08,642] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.037 seconds
+[2022-09-24 16:44:38,918] {scheduler_job.py:182} INFO - Started process (PID=842) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:44:38,919] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:44:38,919] {logging_mixin.py:104} INFO - [2022-09-24 16:44:38,919] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:44:38,929] {logging_mixin.py:104} INFO - [2022-09-24 16:44:38,929] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:44:38,931] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:44:38,951] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.036 seconds
+[2022-09-24 16:45:09,961] {scheduler_job.py:182} INFO - Started process (PID=869) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:45:09,962] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:45:09,962] {logging_mixin.py:104} INFO - [2022-09-24 16:45:09,962] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:45:09,972] {logging_mixin.py:104} INFO - [2022-09-24 16:45:09,972] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:45:09,974] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:45:09,987] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.029 seconds
+[2022-09-24 16:45:41,032] {scheduler_job.py:182} INFO - Started process (PID=896) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:45:41,034] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:45:41,035] {logging_mixin.py:104} INFO - [2022-09-24 16:45:41,035] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:45:41,052] {logging_mixin.py:104} INFO - [2022-09-24 16:45:41,051] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:45:41,055] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:45:41,074] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.045 seconds
+[2022-09-24 16:46:12,072] {scheduler_job.py:182} INFO - Started process (PID=923) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:46:12,073] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:46:12,074] {logging_mixin.py:104} INFO - [2022-09-24 16:46:12,074] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:46:12,084] {logging_mixin.py:104} INFO - [2022-09-24 16:46:12,083] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:46:12,086] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:46:12,104] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.034 seconds
+[2022-09-24 16:46:43,063] {scheduler_job.py:182} INFO - Started process (PID=950) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:46:43,064] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:46:43,065] {logging_mixin.py:104} INFO - [2022-09-24 16:46:43,065] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:46:43,076] {logging_mixin.py:104} INFO - [2022-09-24 16:46:43,075] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:46:43,078] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:46:43,098] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.037 seconds
+[2022-09-24 16:47:14,071] {scheduler_job.py:182} INFO - Started process (PID=977) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:47:14,072] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:47:14,073] {logging_mixin.py:104} INFO - [2022-09-24 16:47:14,073] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:47:14,087] {logging_mixin.py:104} INFO - [2022-09-24 16:47:14,086] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:47:14,090] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:47:14,104] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.036 seconds
+[2022-09-24 16:47:45,101] {scheduler_job.py:182} INFO - Started process (PID=1004) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:47:45,102] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:47:45,103] {logging_mixin.py:104} INFO - [2022-09-24 16:47:45,103] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:47:45,115] {logging_mixin.py:104} INFO - [2022-09-24 16:47:45,114] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:47:45,118] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:47:45,137] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.039 seconds
+[2022-09-24 16:48:15,188] {scheduler_job.py:182} INFO - Started process (PID=1031) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:48:15,189] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:48:15,190] {logging_mixin.py:104} INFO - [2022-09-24 16:48:15,190] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:48:15,208] {logging_mixin.py:104} INFO - [2022-09-24 16:48:15,207] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:48:15,212] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:48:15,240] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.056 seconds
+[2022-09-24 16:48:45,338] {scheduler_job.py:182} INFO - Started process (PID=1058) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:48:45,340] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:48:45,341] {logging_mixin.py:104} INFO - [2022-09-24 16:48:45,341] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:48:45,360] {logging_mixin.py:104} INFO - [2022-09-24 16:48:45,359] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:48:45,365] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:48:45,389] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.055 seconds
+[2022-09-24 16:49:15,590] {scheduler_job.py:182} INFO - Started process (PID=1085) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:49:15,592] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:49:15,593] {logging_mixin.py:104} INFO - [2022-09-24 16:49:15,592] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:49:15,609] {logging_mixin.py:104} INFO - [2022-09-24 16:49:15,608] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/DAG1.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/DAG1.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-09-24 16:49:15,613] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:49:15,639] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.052 seconds
+[2022-09-24 16:49:45,839] {scheduler_job.py:182} INFO - Started process (PID=1112) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:49:45,840] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:49:45,841] {logging_mixin.py:104} INFO - [2022-09-24 16:49:45,841] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:49:45,861] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:49:45,880] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.044 seconds
+[2022-09-24 16:50:16,122] {scheduler_job.py:182} INFO - Started process (PID=1139) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:50:16,123] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:50:16,124] {logging_mixin.py:104} INFO - [2022-09-24 16:50:16,124] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:50:16,140] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:50:16,149] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.029 seconds
+[2022-09-24 16:50:46,308] {scheduler_job.py:182} INFO - Started process (PID=1166) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:50:46,309] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:50:46,310] {logging_mixin.py:104} INFO - [2022-09-24 16:50:46,310] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:50:46,328] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:50:46,337] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.031 seconds
+[2022-09-24 16:51:16,424] {scheduler_job.py:182} INFO - Started process (PID=1193) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:51:16,425] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:51:16,426] {logging_mixin.py:104} INFO - [2022-09-24 16:51:16,426] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:51:16,446] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:51:16,457] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.035 seconds
+[2022-09-24 16:51:46,575] {scheduler_job.py:182} INFO - Started process (PID=1220) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:51:46,577] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:51:46,577] {logging_mixin.py:104} INFO - [2022-09-24 16:51:46,577] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:51:46,592] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:51:46,601] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.028 seconds
+[2022-09-24 16:52:16,628] {scheduler_job.py:182} INFO - Started process (PID=1247) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:52:16,629] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:52:16,630] {logging_mixin.py:104} INFO - [2022-09-24 16:52:16,630] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:52:16,643] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:52:16,652] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.027 seconds
+[2022-09-24 16:52:47,595] {scheduler_job.py:182} INFO - Started process (PID=1274) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:52:47,596] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:52:47,597] {logging_mixin.py:104} INFO - [2022-09-24 16:52:47,597] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:52:47,611] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:52:47,621] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.028 seconds
+[2022-09-24 16:53:17,674] {scheduler_job.py:182} INFO - Started process (PID=1301) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:53:17,675] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:53:17,676] {logging_mixin.py:104} INFO - [2022-09-24 16:53:17,676] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:53:17,693] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:53:17,703] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.031 seconds
+[2022-09-24 16:53:47,784] {scheduler_job.py:182} INFO - Started process (PID=1328) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:53:47,785] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:53:47,786] {logging_mixin.py:104} INFO - [2022-09-24 16:53:47,786] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:53:47,802] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:53:47,811] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.029 seconds
+[2022-09-24 16:54:17,891] {scheduler_job.py:182} INFO - Started process (PID=1355) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:54:17,892] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:54:17,893] {logging_mixin.py:104} INFO - [2022-09-24 16:54:17,893] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:54:17,908] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:54:17,917] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.028 seconds
+[2022-09-24 16:54:48,898] {scheduler_job.py:182} INFO - Started process (PID=1382) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:54:48,899] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:54:48,900] {logging_mixin.py:104} INFO - [2022-09-24 16:54:48,899] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:54:48,919] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:54:48,928] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.032 seconds
+[2022-09-24 16:55:19,006] {scheduler_job.py:182} INFO - Started process (PID=1409) to work on /opt/airflow/dags/DAG1.py
+[2022-09-24 16:55:19,007] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/DAG1.py for tasks to queue
+[2022-09-24 16:55:19,008] {logging_mixin.py:104} INFO - [2022-09-24 16:55:19,008] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:55:19,025] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/DAG1.py
+[2022-09-24 16:55:19,034] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG1.py took 0.031 seconds
